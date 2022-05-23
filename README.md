@@ -1,2 +1,2 @@
 # firstresearch
-re search, re search , re search 
+Fake interaction data detection combined with recommendation models
